@@ -17,7 +17,7 @@
   - [x] Installation (Discord)
   - [ ] Installation navigateur (Developper Edition)
   - [ ] Création et configuration Mail pro
-  - [ ] Création et configuration Linkedin
+  - [x] Création et configuration Linkedin
   - [x] Installation Linux ou WSL sur Windows
 
 ### Terminal :
