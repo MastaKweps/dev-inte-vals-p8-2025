@@ -5,8 +5,8 @@
 ### Découverte des outils de développement :
 - [ ] Découverte de VS Code
 - [ ] Comprendre le web (Openclassrooms)
-- [ ] Faire le parcours Git-it (Nodeschool.io)
-- [ ] Établir sa connexion en SSH avec Github
-- [ ] Faire ses premiers commits sur les daily objectives
-- [ ] Forker le repository des daily-objectives
-  - [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [x] Faire le parcours Git-it (Nodeschool.io)
+- [x] Établir sa connexion en SSH avec Github
+- [x] Faire ses premiers commits sur les daily objectives
+- [x] Forker le repository des daily-objectives
+  - [x] Faire ses premiers pushs des daily-objectives sur son compte Github
