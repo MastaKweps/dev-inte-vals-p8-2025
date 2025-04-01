@@ -9,7 +9,7 @@
 
 ### Git
 
-- [ ] Comprendre les termes "local", "origin" et "upstream"
+- [x] Comprendre les termes "local", "origin" et "upstream"
 - [x] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
 - [x] Faire ses premiers pushs des daily-objectives sur son compte Github
 - [x] Découvrir les conventions de nommage de son versionning avec la convention Angular :
@@ -21,9 +21,9 @@
 
 - [x] Pimper son profile Github (belle du village)
 - [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
-- [ ] Découvrir l'interface de Github :
-    - [ ] Pull Requests
+- [x] Découvrir l'interface de Github :
+    - [x] Pull Requests
     - [ ] Branches
     - [ ] Issues
     - [ ] Settings projet
-    - [ ] Settings profile
+    - [x] Settings profile

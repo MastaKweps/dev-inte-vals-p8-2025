@@ -26,10 +26,10 @@
 
 ### Outils
 
-- [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
-  - [ ] Intégration dans son editeur / workflow
-  - [ ] Faire le tour du propriétaire
+- [x] Découverte de LazyGit
+  - [x] Installation et configuration
+  - [x] Intégration dans son editeur / workflow
+  - [x] Faire le tour du propriétaire
 
 ### IA
 
