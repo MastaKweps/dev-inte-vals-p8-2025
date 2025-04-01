@@ -3,6 +3,7 @@
 ### Mercredi 12/03/2025
 
 ### Découverte des outils de développement :
+
 - [x] Découverte de VS Code
 - [x] Comprendre le web (Openclassrooms)
 - [x] Faire le parcours Git-it (Nodeschool.io)
