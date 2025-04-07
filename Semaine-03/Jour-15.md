@@ -10,7 +10,7 @@
 - [ ] Comprendre la notion de cascade en CSS
 - [ ] Comprendre le fonctionnement de l'héritage en CSS
 - [ ] Comprendre le fonctionnement de Flexbox
-  - [ ] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
+  - [x] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
 
 ### Rattrapage
 
